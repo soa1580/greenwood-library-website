@@ -5,4 +5,12 @@
 
 1. ### Creation of the repository for the Greenwood LibraryS
 
+![CreateR](./img/1.repo.created.png)
 
+
+2. ### Creation of branches for both
+
+![Bcreation](./img/2.Morgan.B.png)
+
+
+3. ### 
